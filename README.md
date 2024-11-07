@@ -1,2 +1,2 @@
 # SISBIBPAULA
-Proyectyo Springboot Sistema de Bibliotecass
+Proyecto Springboot Sistema de Bibliotecass
